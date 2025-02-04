@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-  name='Colab Utils',
+  name='Utils',
   version='0.1dev',
   packages=['coutils'],
   install_requires=[
